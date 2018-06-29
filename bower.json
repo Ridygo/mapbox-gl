@@ -18,7 +18,7 @@
   "license": "MIT",
   "dependencies": {
     "polymer": "Polymer/polymer#^2.6.0",
-    "shadycss": "^1.0.5",
+    "shadycss": "https://github.com/Ridygo/shadycss.git",
     "utils-lib": "PolymerVis/utils-lib#^2.0.0",
     "iron-resizable-behavior": "PolymerElements/iron-resizable-behavior#^2.1.0"
   },
